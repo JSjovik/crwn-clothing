@@ -2,7 +2,6 @@ import {Outlet, Link} from 'react-router-dom'
 import {Fragment} from 'react';
 import {ReactComponent as Crwnlogo} from '../../assets/crown.svg';
 
-
 const Navigation = () => {
     return (
         <Fragment>
